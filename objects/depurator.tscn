@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bsogmbb2qmp24"]
+
+[ext_resource type="Script" path="res://features/state-machine/scripts/depurator.gd" id="1_8p327"]
+
+[node name="depurator" type="Node"]
+script = ExtResource("1_8p327")
